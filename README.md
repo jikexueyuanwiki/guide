@@ -2,25 +2,29 @@
 
 参考案例：https://github.com/JikeXueyuanWiki/Android-Studio-Guide
 
+## 统一规范
 
+* 基于 GitHub 协作
+* 采用 Markdown 编写
 
-## 统一规范：
+## Markdown 相关
 
-* 基于Github协作
-* 采用Markdown编写，参考文档 http://wowubuntu.com/markdown/
+* 语法：http://wowubuntu.com/markdown/
+* 编辑器下载
+ * Windows - MarkdownPad：http://markdownpad.com/
+ * Mac - Mou：http://25.io/mou/
 
+## 目录结构
 
-## 目录结构：
+* README.md - 说明文档（必须有，默认 wiki 首页显示）
+* TOC.md - 目录（必须有，该 wiki 的目录）
+* images/ - 存放图片（可选文章中用到的图片文件都放在这）
+* cover_small.jpg 或 cover_small.png - 小封面（必须有，200*120px）
+* cover.jpg 或 cover.png - 封面（不必须，1000*1440px）
+* name-is.md - 正文 1，比如：access-control.md（不加序号，单词全部小写，单词之间用减号分隔）
+* name-that.md - 正文 2，比如：advanced-operators.md（不加序号，单词全部小写，单词之间用减号分隔）
 
-* README.md #说明文档（必须有，默认wiki首页显示）
-* TOC.md #目录（必须有，该wiki的目录）
-* images/ #图片（可选文章中用到的图片文件都放在这）
-* cover_small.jpg 或 cover_small.png #小封面（必须有，200*120px）
-* cover.jpg 或 cover.png #封面（不必须，1000*1440px）
-* name-is.md  #正文1，比如：access-control.md（不加序号，单词全部小写，单词之间用减号分隔）
-* name-that.md  #正文2，比如：advanced-operators.md（不加序号，单词全部小写，单词之间用减号分隔）
-
-## TOC规范：
+## TOC 示例
 
 ```
 * [概述](README.md)
