@@ -15,10 +15,10 @@
 * README.md #说明文档（必须有，默认wiki首页显示）
 * TOC.md #目录（必须有，该wiki的目录）
 * images/ #图片（可选文章中用到的图片文件都放在这）
-* cover_small.jpg #小封面（必须有，200*120px）
-* cover.jpg  #封面（必须有，1000*1440px）
-* 01_name.md  #正文1
-* 02_name.md  #正文2
+* cover_small.jpg 或 cover_small.png #小封面（必须有，200*120px）
+* cover.jpg 或 cover.png #封面（不必须，1000*1440px）
+* name-is.md  #正文1，比如：access-control.md（不加序号，单词全部小写，单词之间用减号分隔）
+* name-that.md  #正文2，比如：advanced-operators.md（不加序号，单词全部小写，单词之间用减号分隔）
 
 ## TOC规范：
 
