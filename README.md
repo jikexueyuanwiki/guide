@@ -7,6 +7,12 @@
 * 基于 GitHub 协作
 * 采用 Markdown 编写
 
+## GitHub 相关
+
+* 图形化工具
+ - GitHub for Windows：https://windows.github.com/
+ - GitHub for Mac：https://mac.github.com/
+
 ## Markdown 相关
 
 * 语法：http://wowubuntu.com/markdown/
