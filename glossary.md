@@ -1,0 +1,39 @@
+- HBase
+- Ruby on Rails
+- Node.js
+- Objective-C（错误：Objective-c、ObjectiveC）
+- JSON（错误：json、Json）
+- XML（错误：xml、Xml）
+- HTTP（错误：http）
+- UI（错误：Ui、ui）
+- AJAX（错误：Ajax、AJax）
+- jQuery（错误：Jquery）
+- DOM（错误：dom）
+- JavaScript（错误：Javascript、javascript）
+- XHTML（错误：xhtml）
+- Web（错误：web）
+- SDK（错误：sdk）
+- Unity 3D（错误：unity 3d、Unity3D）
+- HTML（错误：html）
+- HTML5（错误：html5、html 5、HTML 5）
+- CSS（错误：css）
+- CSS3（错误：css3、CSS 3）
+- VIP（错误：vip、Vip）
+- Cocos（错误：cocos）
+- Cocos2d-x（错误：Cocos2d-X、Cocos2dx）
+- Cocos2d-JS（错误：Cocos2d-JS）
+- Xcode（错误：xCode、XCode）
+- Android（错误：android、安卓）
+- API（错误：api、Api）
+- iOS（错误：IOS、ios）
+- iOS 8（错误：iOS8）
+- OS X （错误：os x、OS x）
+- iPhone（错误：iphone、IPhone）
+- iPhone 6（错误：iPhone6）
+- iPhone 5s（错误：iPhone 5S）
+- iPad（错误：ipad、Ipad）
+- iCloud（错误：icloud、Icloud）
+- App（错误：app、APP）
+- PDF（错误：pdf）
+- Mac（错误：mac、MAC）
+- ID（错误：id、Id）
