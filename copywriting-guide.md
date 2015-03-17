@@ -23,6 +23,12 @@
 - 段落开头不要留出空白字符，顶格写。
 - 段落之间使用一个空行隔开。
 
-## 代码
+## 文件命名
 
-- 缩进必须用四个空格，不得用 Tab。
+- 文件夹：英文小写（多个英文减号连接）；  
+正确：copywriting-guide  
+错误：copywriting_guide、copywritingGuide、CopywritingGuide、copywriting guide
+
+- Markdown 文件：英文小写（多个英文减号连接）；  
+正确：copywriting-guide.md  
+错误：copywriting_guide.md、copywritingGuide.md、CopywritingGuide.md、copywriting guide.md

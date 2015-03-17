@@ -1,46 +1,22 @@
-# 协作规范
+# 极客学院 Wiki 协作规范
 
-参考案例：https://github.com/JikeXueyuanWiki/Android-Studio-Guide
+## 第一步：学习 Markdown 语法（花费 5 分钟）
 
-## 统一规范
+详见文档：[Markdown 五分钟速成](markdown.md)
 
-* 基于 GitHub 协作
-* 采用 Markdown 编写
+## 第二步：学习 GitHub 使用方法（花费 10 分钟）
 
-## GitHub 相关
+Windows 详见文档：<https://github.com/jikexueyuanwiki/github-basics/blob/master/github-for-windows.md>
 
-* 图形化工具
- - GitHub for Windows：https://windows.github.com/
- - GitHub for Mac：https://mac.github.com/
+Mac 详见文档：<https://github.com/jikexueyuanwiki/github-basics/blob/master/github-for-mac.md>
 
-## Markdown 相关
+## 第三步：开始撰写
 
-* 语法：http://wowubuntu.com/markdown/
-* 编辑器下载
- * Windows - MarkdownPad：http://markdownpad.com/
- * Mac - Mou：http://25.io/mou/
+1. 了解仓库的目录结构   
+目录结构规范：[目录结构](toc-struct.md)
+2. 查阅仓库的「目录」文件，目录文件文件名固定为「TOC.md」，位于仓库的根目录之下    
+目录示例：[TOC.md](TOC.md) 
+3. 点击对应的章节文件开始撰写内容    
+章节示例：[文案风格规范](copywriting-guide.md)
 
-## 目录结构
-
-* README.md - 说明文档（必须有，默认 wiki 首页显示）
-* TOC.md - 目录（必须有，该 wiki 的目录）
-* images/ - 存放图片（可选文章中用到的图片文件都放在这）
-* cover_small.jpg 或 cover_small.png - 小封面（必须有，200*120px）
-* cover.jpg 或 cover.png - 封面（不必须，1000*1440px）
-* name-is.md - 正文 1，比如：access-control.md（不加序号，单词全部小写，单词之间用减号分隔）
-* name-that.md - 正文 2，比如：advanced-operators.md（不加序号，单词全部小写，单词之间用减号分隔）
-
-## TOC 示例
-
-```
-* [概述](README.md)
-  * [Android Studio 介绍](intro.md)
-  * [系统要求&文件下载](install.md)
-* 环境安装
-  * [Mac环境](install-mac.md)
-  * [Windows 7](install-windows7.md)
-  * [Windows 8](install-windows8.md)
-  * [Windows XP](install-windows-xp.md)
-  * [Linux Ubuntu](install-linux-ubuntu.md)
-```
 
