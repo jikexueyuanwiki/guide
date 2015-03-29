@@ -22,10 +22,10 @@ Apple Watch 人机交互指南
 ### 第三步：学习 GitHub 使用方法（花费 10 分钟）
 
 - Windows 用户详见文档：   
-<https://github.com/jikexueyuanwiki/github-basics/blob/master/github-for-windows.md>
+<http://wiki.jikexueyuan.com/project/github-basics/github-for-windows.html>
 
 - Mac 用户详见文档：  
-<https://github.com/jikexueyuanwiki/github-basics/blob/master/github-for-mac.md>
+<http://wiki.jikexueyuan.com/project/github-basics/github-for-mac.html>
 
 ### 第四步：开始撰写
 
