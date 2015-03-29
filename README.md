@@ -2,6 +2,11 @@
 
 极客学院 Wiki 采用在线协作，所有文件都直接提交到 GitHub 之上，文字撰写采用 Markdown 极简文本语法，舍弃繁琐的 Word 排版。
 
+## 实例
+
+Apple Watch 人机交互指南       
+<http://wiki.jikexueyuan.com/project/apple-watch-human-interface-guidelines/>   
+
 协同者只需按照本规范，step by step，就能迅速上手，亲身感受在线协同的便利和高效。
 
 ## 第一步：学习 Markdown 语法（花费 5 分钟）
