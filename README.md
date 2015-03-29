@@ -2,17 +2,24 @@
 
 极客学院 Wiki 采用在线协作，所有文件都直接提交到 GitHub 之上，文字撰写采用 Markdown 极简文本语法，舍弃繁琐的 Word 排版。
 
+## 实例
+
+Apple Watch 人机交互指南       
+<http://wiki.jikexueyuan.com/project/apple-watch-human-interface-guidelines/>   
+
+## 协作步骤
+
 协同者只需按照本规范，step by step，就能迅速上手，亲身感受在线协同的便利和高效。
 
-## 第一步：学习 Markdown 语法（花费 5 分钟）
+### 第一步：学习 Markdown 语法（花费 5 分钟）
 
 详见文档：[Markdown 五分钟速成](markdown.md)
 
-## 第二步：学习 极客学院文案风格指南（花费 5 分钟）
+### 第二步：学习 极客学院文案风格指南（花费 5 分钟）
 
 详见文档：[极客学院文案风格指南](copywriting-guide.md)
 
-## 第三步：学习 GitHub 使用方法（花费 10 分钟）
+### 第三步：学习 GitHub 使用方法（花费 10 分钟）
 
 - Windows 用户详见文档：   
 <https://github.com/jikexueyuanwiki/github-basics/blob/master/github-for-windows.md>
@@ -20,7 +27,7 @@
 - Mac 用户详见文档：  
 <https://github.com/jikexueyuanwiki/github-basics/blob/master/github-for-mac.md>
 
-## 第四步：开始撰写
+### 第四步：开始撰写
 
 1. 了解仓库的目录结构   
 目录结构规范：[目录结构](toc-struct.md)
