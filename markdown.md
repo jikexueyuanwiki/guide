@@ -1,10 +1,12 @@
 # Markdown 五分钟速成
 
 为了加强后续 Wiki 开发效率，请编写人员使用规定工具按照规范进行文档的编写。
-- Windows 用户推荐使用编辑器 MarkdownPad  
+
+- Windows 用户推荐使用编辑器 MarkdownPad  
 下载地址：<http://markdownpad.com>
-  - Mac 用户推荐使用编辑器 Mou   
-下载地址：<http://25.io/mou>
+  
+- Mac 用户推荐使用编辑器 MacDown     
+下载地址：<http://macdown.uranusjr.com/>
 
 ## 标题
 
@@ -165,4 +167,4 @@ public class Person {
 
 
 
-
+
