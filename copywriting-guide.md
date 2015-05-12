@@ -46,6 +46,7 @@ markdown 格式 （内容大于标题）
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 ```
+>注意： |:----| (左对齐)  |:------:|（居中 ） |------:| （右对齐）。`:-` 之间不要有空格。
 
 样式：
 
@@ -54,7 +55,6 @@ markdown 格式 （内容大于标题）
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
->注意： |:----| (左对齐)  |:------:|（居中 ） |------:| （右对齐）。`:-` 之间不要有空格。
 
 Html 格式 （标题过大）
 
