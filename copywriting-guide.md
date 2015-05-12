@@ -32,3 +32,41 @@
 - Markdown 文件：英文小写（多个英文减号连接）；  
 正确：copywriting-guide.md  
 错误：copywriting_guide.md、copywritingGuide.md、CopywritingGuide.md、copywriting guide.md
+
+## 表格形式举例
+
+markdown 格式 （内容大于标题）
+
+| Tables        | Are           | Cool  |
+|:------------- |:-------------|:-----|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+>注意： |:----| (左对齐)  |:------:|（居中 ） |------:| （右对齐）。`:-` 之间不要有空格。
+
+Html 格式 （标题过大）
+
+<table>
+<tr>
+<th algin="left">TablesTablesTablesTablesTables</th>
+<th algin="left">Are</th>
+<th algin="left">Cool</th>
+</tr>
+<tr>
+<td>col 3 is </td>
+<td>right-aligned</td>
+<td>$1600</td>
+</tr>
+<tr>
+<td>col 2 is</td>
+<td>centered</td>
+<td> $12</td>
+</tr>
+<tr>
+<td>zebra stripes</td>
+<td>are neat</td>
+<td>$1</td>
+</tr>
+</table>
