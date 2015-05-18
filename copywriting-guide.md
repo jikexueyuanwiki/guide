@@ -89,9 +89,9 @@ Html 格式 （标题过大）
 
 <table>
 <tr>
-<th algin="left">TablesTablesTablesTablesTables</th>
-<th algin="left">Are</th>
-<th algin="left">Cool</th>
+<th width="100" align="left">TablesTablesTablesTablesTables</th>
+<th align="left">Are</th>
+<th align="left">Cool</th>
 </tr>
 <tr>
 <td>col 3 is </td>
