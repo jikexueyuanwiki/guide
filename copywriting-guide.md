@@ -1,4 +1,4 @@
-# 极客学院文案风格指南
+# 第二步 极客学院文案风格指南
 
 ## 空格
 
@@ -56,63 +56,20 @@ markdown 格式 （内容大于标题）
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-Html 格式 （标题过大）
 
-格式：
-
-```
-<table>
-<tr>
-<th align="left">TablesTablesTablesTablesTables</th>
-<th align="left">Are</th>
-<th align="left">Cool</th>
-</tr>
-<tr>
-<td>col 3 is </td>
-<td>right-aligned</td>
-<td>$1600</td>
-</tr>
-<tr>
-<td>col 2 is</td>
-<td>centered</td>
-<td> $12</td>
-</tr>
-<tr>
-<td>zebra stripes</td>
-<td>are neat</td>
-<td>$1</td>
-</tr>
-</table>
-```
-
-样式：
-
-<table>
-<tr>
-<th width="100" align="left">TablesTablesTablesTablesTables</th>
-<th align="left">Are</th>
-<th align="left">Cool</th>
-</tr>
-<tr>
-<td>col 3 is </td>
-<td>right-aligned</td>
-<td>$1600</td>
-</tr>
-<tr>
-<td>col 2 is</td>
-<td>centered</td>
-<td> $12</td>
-</tr>
-<tr>
-<td>zebra stripes</td>
-<td>are neat</td>
-<td>$1</td>
-</tr>
-</table>
 
 ## 目录标题
 
 目录标题与每篇文章的标题要一致。
+
+### 目录
+
+![](images/cg.png)
+
+### 文章标题
+
+![](images/cg1.png)
+
 
 
 
