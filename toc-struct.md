@@ -22,7 +22,6 @@
   - "title": "一句话介绍文章 - 极客学院 Wiki",
   - "keywords": "涉及到的关键词",
   - "description": "通过本文能够得到什么。"
-}
 
 - name-is.md - 正文 1，比如：access-control.md（不加序号，单词全部小写，单词之间用减号分隔）
 
