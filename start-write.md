@@ -2,9 +2,13 @@
 
 示例：<https://github.com/wenquan0hf/model/blob/master/TOC.md>
 
-1.[了解仓库的目录结构](https://github.com/wenquan0hf/model)
+## 创建仓库的目录结构
 
-目录结构规范：[目录结构](toc-struct.md)
+[目录结构举例](https://github.com/wenquan0hf/model)
+
+1.目录结构规范
+
+[目录结构](toc-struct.md)
 
 2.查阅仓库的「目录」文件，目录文件文件名固定为「TOC.md」，位于仓库的根目录之下
 

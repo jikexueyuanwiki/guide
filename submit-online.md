@@ -6,7 +6,7 @@
 
 ## 邮件
 
-你也可以将你的仓库 SSH 地址发送到邮箱 wiki@jikexueyuan.com。
+你也可以将你的仓库 SSH 地址发送到邮箱 wiki@jikexueyuan.com。请按 “名字+SSH（或Http）” 的格式发送。
 
 ## 如何发送 SSH 地址
 

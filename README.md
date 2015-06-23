@@ -28,15 +28,15 @@
 
 ## 极客学院 Wiki 协作手册
 
- Wiki 协作采用 Markdown+Github 极简工具进行创作，下面的步骤，包括 Wiki 创作的整个过程：
+Wiki 协作采用 Markdown+Github 极简工具进行创作，下面的步骤，包括 Wiki 创作的整个过程：
 
-第一步：[学习 Markdown 语法（花费 5 分钟）](markdown.md)
+第一步：[注册 GitHub，创建仓库（花费 10 分钟）](learn-github.md)
 
-第二步；[学习 极客学院文案风格指南（花费 5 分钟）](copywriting-guide.md)
+第二步；[Markdown 五分钟速成（花费 5 分钟）](markdown.md)
 
-第三步；[学习 GitHub 使用方法（花费 10 分钟）](learn-github.md)
+第三步；[创建基础文件结构（根据内容多少而定）](toc-struct.md)
 
-第四步；[开始撰写](start-write.md)
+第四步；[极客学院文案风格指南（花费 5 分钟）](copywriting-guide.md)
 
 第五步：[提交，上线](submit-online.md)
 
