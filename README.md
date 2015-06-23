@@ -34,7 +34,7 @@ Wiki 协作采用 Markdown+Github 极简工具进行创作，下面的步骤，�
 
 第二步；[Markdown 五分钟速成（花费 5 分钟）](markdown.md)
 
-第三步；[创建基础文件结构（根据内容多少而定）](toc-struct.md)
+第三步；[创建基础文件结构，开始撰写（根据内容多少而定）](toc-struct.md)
 
 第四步；[极客学院文案风格指南（花费 5 分钟）](copywriting-guide.md)
 
