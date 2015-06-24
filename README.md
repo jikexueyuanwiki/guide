@@ -4,7 +4,7 @@
 
 极客学院 Wiki 是集作者创作，内容展示，书籍出版，技术交流为一身的 IT 在线图文教育平台。目前已经有 100 W 用户通过我们的平台奔跑在极客的路上。已有 30+ 种类的课程，100 多门教程供大家学习参考。
 
-欢迎访问极客学院 Wiki 网站：[wiki.jikexueyuan.com/](http://wiki.jikexueyuan.com/)。
+欢迎访问极客学院 Wiki 网站：[wiki.jikexueyuan.com](http://wiki.jikexueyuan.com/)。
 
 ## 为什么选择我们的平台创作？
 
