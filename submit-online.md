@@ -17,6 +17,6 @@ SSH 地址：![](images/oper1.png)
 
 你也可以将你的仓库 SSH 地址发送到邮箱 wiki@jikexueyuan.com。请按 “名字+SSH（或Http）” 的格式发送。
 
-例如：**张三 git@github.com:wenquan0hf/hibernate.git**
+例如：**张三 `git@github.com:wenquan0hf/hibernate.git`**
 
 
