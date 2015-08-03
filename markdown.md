@@ -1,6 +1,6 @@
-# Markdown 五分钟速成
+# 第二步 Markdown 五分钟速成
 
-为了加强后续 Wiki 开发效率，请编写人员使用规定工具按照规范进行文档的编写。
+## Markdown 工具下载
 
 - Windows 用户推荐使用编辑器 MarkdownPad  
 下载地址：<http://markdownpad.com>
@@ -164,6 +164,23 @@ public class Person {
     // 代码缩进请使用 四个空格，不要使用 Tab
 }
 ```
+
+## 锚点使用
+
+书写示例：
+
+```
+极客学院是中国最大的 IT 职业在线教育平台。[[锚点名]](#footnode)
+
+[锚点名]<a name="footnode"></a>我的示例。
+
+```
+
+效果：
+
+极客学院是中国最大的 IT 职业在线教育平台。[[锚点名]](#footnode)
+
+[锚点名]<a name="footnode"></a>我的示例。
 
 ## 特别注意
 

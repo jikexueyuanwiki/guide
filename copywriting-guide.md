@@ -1,4 +1,4 @@
-# 极客学院文案风格指南
+# 第四步 极客学院文案风格指南
 
 ## 空格
 
@@ -16,7 +16,7 @@
 
 ## 英文单词大小写
 
-- 所有的专业词汇必须和对应官网一样，详见 [常用专业词汇](glossary.md)
+- 所有的专业词汇要和对应官网一样，详见 [常用专业词汇](glossary.md)
 
 ## 段落
 
@@ -32,3 +32,42 @@
 - Markdown 文件：英文小写（多个英文减号连接）；  
 正确：copywriting-guide.md  
 错误：copywriting_guide.md、copywritingGuide.md、CopywritingGuide.md、copywriting guide.md
+
+## 表格形式举例
+
+markdown 格式 
+
+格式：
+
+```
+| Tables        | Are           | Cool  |
+|:------------- |:-------------|:-----|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+```
+>注意： |:----| (左对齐)  |:------:|（居中 ） |------:| （右对齐）。`:-` 之间不要有空格。
+
+样式：
+
+| Tables        | Are           | Cool  |
+|:------------- |:-------------|:-----|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+## 目录标题
+
+目录标题与每篇文章的标题要一致。
+
+### 目录
+
+![](images/cg.png)
+
+### 文章标题
+
+![](images/cg1.png)
+
+
+
+
