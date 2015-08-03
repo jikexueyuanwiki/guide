@@ -5,8 +5,8 @@
 - Windows 用户推荐使用编辑器 MarkdownPad  
 下载地址：<http://markdownpad.com>
   
-- Mac 用户推荐使用编辑器 MacDown     
-下载地址：<http://macdown.uranusjr.com/>
+- Mac 用户推荐使用编辑器 Mou   
+下载地址：<http://25.io/mou>
 
 ## 标题
 
@@ -175,5 +175,26 @@ public class Person {
 6. 标题＃号之后需要空一格
 
 
+## 表格
 
+书写示例：
 
+```
+| Prefix       | Framework   |
+| ------------- |:-------------:| -----:|
+| NS      | Foundation (OS X and iOS) and Application Kit (OS X)  |
+| UI      | UIKit (iOS)  |
+| AB      | Address Book  |
+| CA      | Core Animation  |
+| CI      | Core Image  |
+```
+
+效果： 
+
+| Prefix       | Framework   |
+| ------------- |:-------------:| -----:|
+| NS      | Foundation (OS X and iOS) and Application Kit (OS X)  |
+| UI      | UIKit (iOS)  |
+| AB      | Address Book  |
+| CA      | Core Animation  |
+| CI      | Core Image  |
