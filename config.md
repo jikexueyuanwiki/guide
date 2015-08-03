@@ -1,5 +1,7 @@
 # 自定义参数
 
+## 规则
+
 可以通过根目录下的 `config.json` 文件配置自定义参数，具体如下：
 
 ```json
@@ -17,9 +19,11 @@
 }
 ```
 
-示例：
-GitHub 仓库地址：<https://github.com/Unknwon/the-way-to-go_ZH_CN>
-Wiki 项目地址：<http://wiki.jikexueyuan.com/project/the-way-to-go/>
+## 示例
+
+GitHub 仓库地址：<https://github.com/Unknwon/the-way-to-go_ZH_CN>   
+
+Wiki 项目地址：<http://wiki.jikexueyuan.com/project/the-way-to-go/>   
 
 ```json
 {
