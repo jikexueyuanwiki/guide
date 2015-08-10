@@ -8,7 +8,6 @@
 - [配置 config.json ](config-json.md)
 - [通知我们](inform-us.md)
 - [发布上线](put-online.md)
-- [Wiki 功能介绍](wiki-show.md)
 - [联系我们](contact-us.md)
 
 
