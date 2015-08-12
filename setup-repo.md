@@ -1,29 +1,51 @@
-# 创建仓库
+# Fork 仓库
 
-## 前言
+进入这个示例仓库：<https://github.com/jikexueyuanwiki/simple>，然后 Fork 一份到自己的仓库。
 
-- 我们采用 Markdown+GitHub 极简模式进行内容创作；
-- 仓库只需配置一次，就可以个人长期实时维护；
-- 专注内容创作，不再有 Word 或 HTML 排版的麻烦。
+## 文件目录详解
 
-## 注册 GitHub 账号
+- **cover/** - 存放 [官网首页](http://wiki.jikexueyuan.com/) 背景图片（图片由极客学院提供，后期整理上线时，编辑会添加）
+ - background.png 或 background.jpg
+ - logo.png 或 logo.jpg
+ 
+- **images/** - 存放图片（用到的图片文件都放在这）
 
-<http://wiki.jikexueyuan.com/project/github-basics/sign-up.html>
+- **README.md** - 说明文档（**必须有**，默认 wiki 首页显示，相当于书籍的序）
 
-## 创建仓库
+- **TOC.md** - 目录（**必须有**，该 wiki 的目录）
 
-<http://wiki.jikexueyuan.com/project/github-basics/creat-new-repo.html>
+- **config.json** - 书籍名称和介绍（**必须有**）
 
-## 工具安装，克隆仓库到本地
+ 
+## 文章目录格式介绍 
 
-Windows 用户详见文档：
+`TOC.md` 文件是整本书的目录，它是各个章节的一个链接集合，下面我们举两个例子来说明：
 
-<http://wiki.jikexueyuan.com/project/github-basics/github-for-windows.html>
+### 简单模式
 
-Mac 用户详见文档：
+```
 
-<http://wiki.jikexueyuan.com/project/github-basics/github-for-mac.html>
+- [Chapter 1](chapter1.md)
+- [Chapter 2](chapter2.md)
+- [Chapter 3](chapter3.md)
 
->注意：你克隆到本地的文件内至少应包含一个 README.md 文件。![](images/begin.png)
+```
 
-**至此，你已经拥有了一个 GitHub 账号，一个远程仓库，一个本地仓库。接下来我们将讲述如何创建基础文件结构：[创建目录](operate-toc.md)**
+### 多级目录模式
+
+```
+- [Part I](part-one.md)
+    - [Writing is nice](writing.md)
+    - [GitBook is nice](gitbook.md)
+- [Part II](part-two.md)
+    - [We love feedback](feedback_please.md)
+    - [Better tools for authors](better_tools.md)
+```
+
+>注意：编写完 TOC.md 文件后，还需要创建对应的 md 文件（如writing.md)。
+
+到此，你已经有了一个自己的仓库，但是为了避免仓库名重复，我们将讲解[修改仓库](operate-toc.md)。
+
+  
+
+
