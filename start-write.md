@@ -1,10 +1,10 @@
-# 第四步 开始撰写
+# 撰写内容
 
-示例：<https://github.com/wenquan0hf/model/blob/master/TOC.md>
+示例：<https://github.com/jikexueyuanwiki/guide/blob/master/TOC.md>
 
-## 创建仓库的目录结构
+## 创建目录
 
-[目录结构举例](https://github.com/wenquan0hf/model)
+**[目录结构举例](https://github.com/jikexueyuanwiki/guide)**
 
 1.目录结构规范
 
@@ -17,3 +17,19 @@
 3.点击对应的章节文件开始撰写内容
 
 章节示例：[极客学院文案风格规范](copywriting-guide.md)
+
+## 添加内容
+
+1.**目录 TOC.md**
+
+![](images/toc3.png)
+
+2.**在对应的章节文件开始撰写内容**
+
+![](images/toc4.png)
+
+## 参考材料
+
+[Markdown 语法参考](markdown.md)
+
+[极客学院文案风格规范](copywriting-guide.md)
