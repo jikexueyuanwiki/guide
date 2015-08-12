@@ -1,36 +1,41 @@
-# 配置 config.json
+# 自定义参数
 
-## 为什么要配置？
+## 规则
 
-config.json 使用 json 格式配置项目相关信息，包括项目名称、简介、重要文件及目录路径。
+可以通过根目录下的 `config.json` 文件配置自定义参数，具体如下：
 
-## 如何配置？
-
-### 在项目主目录下新建 config.json 文件
-
-![json](images/config.png)
-
-### json 文件示例如下：
-
-```
+```json
 {
-	"name": "The Swift Programming Language 中文版",
-	"introduction": "中文版《The Swift Programming Language》",
+	"name": "项目名称，必填",
+	"introduction": "Wiki 首页的项目介绍，必填",
+	"title": "页面的 title 标签的内容，非必填",
+	"keywords": "页面的 keywords 标签的内容，非必填",
+	"description": "页面的 description 标签的内容，非必填",
 	"path": {
-		"content": "source",
-		"toc": "source/SUMMARY.md",
-		"readme": "source/README.md"
-	}	
+		"content": "正文的文件夹路径，相对路径绝对路径皆可，默认根目录，非必填",
+		"images": "引用图片的文件夹路径，相对路径绝对路径皆可，默认为根目录下的 images 文件夹，非必填",
+		"readme": "关于页面的路径，相对路径绝对路径皆可，默认根目录下的 README.md，非必填",
+		"toc": "目录的路径，相对路径绝对路径皆可，默认根目录下的 TOC.md，非必填"
+		}
 }
 ```
 
-内容解释：
+## 示例
 
-- name: 项目名称 **（必填）**
-- introduction: 项目简介**（必填）**
-- path: 重要文件/目录路径
-- content: 项目的主要文件存储相对路径
-- toc: 项目的目录文件相对路径
-- readme: 项目的 README 文档相对路径
+GitHub 仓库地址：<https://github.com/Unknwon/the-way-to-go_ZH_CN>   
+
+Wiki 项目地址：<http://wiki.jikexueyuan.com/project/the-way-to-go/>   
+
+```json
+{
+	"name": "Go 入门指南",
+	"introduction": "Go 经典书籍《The Way To Go》的中文译本。",
+	"path": {
+		"content": "eBook",
+		"readme": "README_gc.md"
+	}
+
+}
+```   
 
 配置好后，我们就可以通知极客学院 Wiki，进行下一步操作[通知我们](inform-us.md)。
