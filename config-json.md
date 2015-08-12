@@ -26,10 +26,11 @@ config.json 使用 json 格式配置项目相关信息，包括项目名称、�
 
 内容解释：
 
-- name: 项目名称
-- introduction: 项目简介
+- name: 项目名称 **（必填）**
+- introduction: 项目简介**（必填）**
 - path: 重要文件/目录路径
 - content: 项目的主要文件存储相对路径
 - toc: 项目的目录文件相对路径
 - readme: 项目的 README 文档相对路径
 
+配置好后，我们就可以通知极客学院 Wiki，进行下一步操作[通知我们](inform-us.md)。

@@ -1,4 +1,4 @@
-## 极客学院 Wiki 内容创作手册
+## 极客学院 Wiki 协作手册
 
 - [关于我们](about.md)
 - [创建仓库](setup-repo.md)

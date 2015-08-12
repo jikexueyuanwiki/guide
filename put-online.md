@@ -8,3 +8,5 @@
 
 - 课程上线示例： [http://wiki.jikexueyuan.com/project/swift/](http://wiki.jikexueyuan.com/project/swift/)
 
+恭喜你完成所有任务，课程已上线！：）
+
