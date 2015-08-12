@@ -1,8 +1,8 @@
 ## 极客学院 Wiki 协作手册
 
 - [关于我们](about.md)
-- [创建仓库](setup-repo.md)
-- [创建目录](operate-toc.md)
+- [Fork 示例仓库](setup-repo.md)
+- [修改仓库名](operate-toc.md)
 - [撰写内容](start-writing.md)
 - [配置 Webhook](webhook-config.md)
 - [配置 config.json ](config-json.md)
