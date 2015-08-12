@@ -36,4 +36,4 @@ Webhook 地址: http://wiki.jikexueyuan.com/api/github
 
 ![webhook7](images/webhook7.png)
 
-接下来我们需要根据项目配置 config.json 文件，请看[配置 config](config-json.md)。
+接下来我们需要根据项目配置 config.json 文件，请看[配置 config.json](config-json.md)。
