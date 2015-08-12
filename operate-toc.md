@@ -1,6 +1,6 @@
 # 创建目录
 
-## 创建基础文件结构
+## 创建文件目录
 
 通过上一节的介绍，你已经有了一个远程仓库，一个本地的仓库，仓库里有一个 **README.md** 的文件。下面让我们开始创建基本的文件结构，在本地仓库文件位置 `C:\Users\Administrator\Documents\GitHub\test`下添加如下图所示文件和文件夹。
 
@@ -9,7 +9,7 @@
 >注意：你的 GitHub 仓库的本地文件地址以克隆下来的地址为准。  
 >提示：在本地仓库鼠标右键就可以创建，不同文件只需要改后缀名就能成功哦！
 
-## 文件目录详解
+### 文件目录详解
 
 - **cover/** - 存放 [官网首页](http://wiki.jikexueyuan.com/) 背景图片（图片由极客学院提供，后期整理上线时，编辑会添加）
  - background.png 或 background.jpg
@@ -36,7 +36,7 @@
 }
 ```
   
-## 添加新文件
+### 添加新文件
 
 添加新文件，如下图：
 
@@ -50,6 +50,22 @@
 - Markdown 文件：英文小写（多个英文减号连接）；  
 正确：copywriting-guide.md  
 错误：copywriting_guide.md、copywritingGuide.md、CopywritingGuide.md、copywriting guide.md
+
+## 创建文章目录
+
+**[目录结构举例](https://github.com/jikexueyuanwiki/guide)**
+
+### 目录结构规范
+
+[目录结构](toc-struct.md)
+
+### 查阅仓库的「目录」文件，目录文件文件名固定为「TOC.md」，位于仓库的根目录之下
+
+目录示例：[TOC.md](TOC.md)
+
+### 点击对应的章节文件开始撰写内容
+
+章节示例：[极客学院文案风格规范](copywriting-guide.md)
 
 到此，你已经开始了创作整理的路程了，下面一节，我们将讲解[撰写内容](start-writing.md)。
 
