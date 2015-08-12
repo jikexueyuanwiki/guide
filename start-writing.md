@@ -6,6 +6,12 @@
 
 [Markdown 语法参考](markdown.md)
 
+## 添加目录
+
+**目录 TOC.md**
+
+![](images/write1.png)
+
 ## 添加新文件
 
 ![](images/new-file.png)
@@ -23,13 +29,5 @@
 ![](images/write2.png)
 
 >提示：右上角的 ![](images/1.png) 是编辑按钮；![](images/2.png) 是删除按钮；![](images/3.png)是保存按钮。
-
-
-## 添加目录
-
-**目录 TOC.md**
-
-![](images/write1.png)
-
 
 当你撰写了一定章节的内容，想要查看在 Wiki 里面的展示效果时，那么你需要：[配置 Webhook](webhook-config.md)
