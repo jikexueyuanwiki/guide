@@ -7,7 +7,7 @@
 ![](images/toc.png)
 
 >注意：你的 GitHub 仓库的本地文件地址以克隆下来的地址为准。  
->提示：在本地仓库鼠标右键就可以创建，不同文件只需要改后缀名就能成功哦！
+>提示：在本地仓库鼠标右键就可以创建，不同文件只需要改后缀名就能成功！
 
 ### 文件目录详解
 
@@ -27,7 +27,7 @@
   - "name": "书籍名称",
   - "introduction": "书籍内容简介。",
   
-例如：
+例如：config.json 文件配置展示如下
 
 ```
 {
@@ -53,19 +53,30 @@
 
 ## 创建文章目录
 
-**[目录结构举例](https://github.com/jikexueyuanwiki/guide)**
+`TOC.md` 文件是整本书的目录，它是各个章节的一个链接集合，下面我们举两个例子来说明：
 
-### 目录结构规范
+### 简单模式
 
-[目录结构](toc-struct.md)
+```
 
-### 查阅仓库的「目录」文件，目录文件文件名固定为「TOC.md」，位于仓库的根目录之下
+- [Chapter 1](chapter1.md)
+- [Chapter 2](chapter2.md)
+- [Chapter 3](chapter3.md)
 
-目录示例：[TOC.md](TOC.md)
+```
 
-### 点击对应的章节文件开始撰写内容
+### 多级目录模式
 
-章节示例：[极客学院文案风格规范](copywriting-guide.md)
+```
+- [Part I](part-one.md)
+    - [Writing is nice](writing.md)
+    - [GitBook is nice](gitbook.md)
+- [Part II](part-two.md)
+    - [We love feedback](feedback_please.md)
+    - [Better tools for authors](better_tools.md)
+```
+
+>注意：编写完 TOC.md 文件后，还需要创建对应的 md 文件。
 
 到此，你已经开始了创作整理的路程了，下面一节，我们将讲解[撰写内容](start-writing.md)。
 
