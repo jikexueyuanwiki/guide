@@ -73,7 +73,7 @@
     - [Better tools for authors](better_tools.md)
 ```
 
->注意：编写完 TOC.md 文件后，还需要创建对应的 md 文件。
+>注意：编写完 TOC.md 文件后，还需要创建对应的 md 文件（如writing.md)。
 
 到此，你已经开始了创作整理的路程了，下面一节，我们将讲解[撰写内容](start-writing.md)。
 

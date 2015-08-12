@@ -18,3 +18,5 @@ Webhook 和 config.json 配置好后，需要通知我们进入下一环节
 ![pull_request](images/pull_request.png)
 
 ![pull_request2](images/pull_request2.png)
+
+至此，内容已经制作完毕，等待发布上线吧[发布上线](put-online.md)
