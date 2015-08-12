@@ -1,29 +1,30 @@
-# 创建仓库
+# Fork 仓库
 
-## 前言
+进入这个示例仓库：<https://github.com/jikexueyuanwiki/simple>，然后 Fork 一份到自己的仓库。
 
-- 我们采用 Markdown+GitHub 极简模式进行内容创作；
-- 仓库只需配置一次，就可以个人时时维护；
-- 专注内容创作，不再有 Word 或 HTML 排版的麻烦。
+文件目录详解
 
-## 注册 GitHub 账号
+- **cover/** - 存放 [官网首页](http://wiki.jikexueyuan.com/) 背景图片（图片由极客学院提供，后期整理上线时，编辑会添加）
+ - background.png 或 background.jpg
+ - logo.png 或 logo.jpg
+ 
+- **images/** - 存放图片（用到的图片文件都放在这）
 
-<http://wiki.jikexueyuan.com/project/github-basics/sign-up.html>
+- **README.md** - 说明文档（**必须有**，默认 wiki 首页显示，相当于书籍的序）
 
-## 创建仓库
+- **TOC.md** - 目录（**必须有**，该 wiki 的目录）
 
-<http://wiki.jikexueyuan.com/project/github-basics/creat-new-repo.html>
+- **config.json** - 书籍名称和介绍（**必须有**）
 
-## 工具安装，克隆仓库到本地
+  
+例如：config.json 文件配置展示如下
 
-Windows 用户详见文档：
+```
+{
+    "name": "Hibernate 高级教程",
+    "introduction": "文章内容是对 Hibernate 高级特性的总结和学习。"
+}
+```
+  
 
-<http://wiki.jikexueyuan.com/project/github-basics/github-for-windows.html>
 
-Mac 用户详见文档：
-
-<http://wiki.jikexueyuan.com/project/github-basics/github-for-mac.html>
-
->注意：你克隆到本地的文件内至少应包含一个 README.md 文件。![](images/begin.png)
-
-**至此，你已经拥有了一个 GitHub 账号，一个远程仓库，一个本地仓库。接下来我们将讲述如何创建基础文件结构：[创建目录](operate-toc.md)**
