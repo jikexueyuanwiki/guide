@@ -6,10 +6,6 @@
 
 [Markdown 语法参考](markdown.md)
 
-[极客学院文案风格规范](copywriting-guide.md)
-
-[常用专业词汇](glossary.md)
-
 ## 添加内容
 
 1.**目录 TOC.md**

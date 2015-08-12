@@ -2,7 +2,7 @@
 
 进入这个示例仓库：<https://github.com/jikexueyuanwiki/simple>，然后 Fork 一份到自己的仓库。
 
-文件目录详解
+## 文件目录详解
 
 - **cover/** - 存放 [官网首页](http://wiki.jikexueyuan.com/) 背景图片（图片由极客学院提供，后期整理上线时，编辑会添加）
  - background.png 或 background.jpg
@@ -16,14 +16,36 @@
 
 - **config.json** - 书籍名称和介绍（**必须有**）
 
-  
-例如：config.json 文件配置展示如下
+ 
+## 文章目录格式介绍 
+
+`TOC.md` 文件是整本书的目录，它是各个章节的一个链接集合，下面我们举两个例子来说明：
+
+### 简单模式
 
 ```
-{
-    "name": "Hibernate 高级教程",
-    "introduction": "文章内容是对 Hibernate 高级特性的总结和学习。"
-}
+
+- [Chapter 1](chapter1.md)
+- [Chapter 2](chapter2.md)
+- [Chapter 3](chapter3.md)
+
+```
+
+### 多级目录模式
+
+```
+- [Part I](part-one.md)
+    - [Writing is nice](writing.md)
+    - [GitBook is nice](gitbook.md)
+- [Part II](part-two.md)
+    - [We love feedback](feedback_please.md)
+    - [Better tools for authors](better_tools.md)
+```
+
+>注意：编写完 TOC.md 文件后，还需要创建对应的 md 文件（如writing.md)。
+
+到此，你已经有了一个自己的仓库，但是为了避免仓库名重复，我们将讲解[修改仓库](start-writing.md)。
+
 ```
   
 
