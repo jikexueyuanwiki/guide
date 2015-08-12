@@ -10,6 +10,5 @@
 
 ![](images/rename.png)
 
-
 现在，你已经解决仓库重名的问题，下面一节，我们将讲解[撰写内容](start-writing.md)。
 
