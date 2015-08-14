@@ -1,6 +1,8 @@
-# 极客学院 Wiki 协作手册
+# 极客学院 Wiki 帮助中心
 
-本手册包涵了 Wiki 创作的整个过程，新手只需一步步按手册操作就能完成配置，如果你是 Gitbook 用户，那么可以从 [配置 Webhook](webhook-config.md) 开始。
+本手册包涵了 Wiki 创作的整个过程，新手只需一步步按手册操作就能完成。
+
+同时，我们已经完美兼容 GitBook，只需花费几分钟时间通过简单地配置，就能搞定。如果你是 GitBook 用户，那么直接从 [配置 Webhook](webhook-config.md) 章节开始。
 
 - [关于我们](about.md)
 - [Fork 示例仓库](setup-repo.md)
