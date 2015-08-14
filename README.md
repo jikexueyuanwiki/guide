@@ -1,4 +1,4 @@
-## 极客学院 Wiki 协作手册
+# 极客学院 Wiki 协作手册
 
 - [关于我们](about.md)
 - [Fork 示例仓库](setup-repo.md)
