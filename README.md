@@ -4,6 +4,12 @@
 
 同时，我们已经完美兼容 GitBook，只需花费几分钟时间通过简单地配置，就能搞定。如果你是 GitBook 用户，那么直接从 [配置 Webhook](webhook-config.md) 章节开始。
 
+## 投入与产出
+
+![](images/cincot.png)
+
+## 目录
+
 - [关于我们](about.md)
 - [Fork 示例仓库](setup-repo.md)
 - [修改仓库名](operate-toc.md)
