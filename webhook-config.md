@@ -36,4 +36,4 @@ Webhook 地址: http://wiki.jikexueyuan.com/api/github
 
 ![webhook7](images/webhook7.png)
 
-接下来我们需要根据项目自定义参数，配置config.json文件，请看[自定义参数](config-json.md)。
+配置完 WebHook后，就能够上线了，下面[第五步，通知我们](inform-us.md)
