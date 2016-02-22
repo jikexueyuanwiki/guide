@@ -24,7 +24,7 @@
 
 ### 5. 将我们的 Webhook 地址粘贴到 Payload URL，Secret 留空
 
-Webhook 地址: http://wiki.jikexueyuan.com/api/github
+**Webhook 地址: http://wiki.jikexueyuan.com/api/github**
 
 ![webhook5](images/webhook5.png)
 
