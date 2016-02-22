@@ -1,4 +1,4 @@
-# Fork 仓库
+# 第一步， Fork 仓库
 
 进入这个示例仓库：<https://github.com/jikexueyuanwiki/simple>，然后 Fork 一份到自己的仓库。
 
