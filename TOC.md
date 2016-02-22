@@ -4,6 +4,6 @@
 - [第三步，撰写内容](start-writing.md)
 - [第四步，配置 Webhook](webhook-config.md)
 - [第五步，通知我们](inform-us.md)
-- [自定义config参数](config-json.md)
 - [发布上线](put-online.md)
+- [自定义config参数](config-json.md)
 - [联系我们](contact-us.md)
